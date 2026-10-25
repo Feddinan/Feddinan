@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="github-banner.png" alt="Vishal Gurram - Cybersecurity Portfolio" width="100%">
+  <img src="Neon Cybersecurity Profile Banner.png" alt="Vishal Gurram - Cybersecurity Portfolio" width="100%">
 </p>
 
 # Hi, I'm Vishal Gurram 👋
