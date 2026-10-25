@@ -47,7 +47,7 @@ attendance tracking, and support workflows.
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/Feddinan
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/gurramvishal/
 
 ---
 *Learning by building, testing, documenting, and improving.*
